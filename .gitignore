@@ -1,0 +1,9 @@
+# Virtual Environment
+venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Optional: Ignore large datasets to keep the repo light
+# *.csv
+# *.xls
