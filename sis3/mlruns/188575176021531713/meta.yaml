@@ -1,0 +1,9 @@
+artifact_location: file:///home/rasul/Documents/University(current)/year 3/semester
+  6(file)/5 Machine Learning/sis3/mlruns/188575176021531713
+creation_time: 1777044480706
+experiment_id: '188575176021531713'
+last_update_time: 1777044480706
+lifecycle_stage: active
+name: iris-classifier
+trace_location: null
+workspace: default

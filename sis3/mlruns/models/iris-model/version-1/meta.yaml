@@ -1,0 +1,17 @@
+creation_timestamp: 1777044485113
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1777044485113
+model_id: m-3edfe64a6bb645acae74bef448e64243
+name: iris-model
+run_id: 67bd216c942a44369ead0de1d460ef85
+run_link: null
+source: models:/m-3edfe64a6bb645acae74bef448e64243
+status: READY
+status_message: null
+storage_location: file:///home/rasul/Documents/University(current)/year 3/semester
+  6(file)/5 Machine Learning/sis3/mlruns/188575176021531713/models/m-3edfe64a6bb645acae74bef448e64243/artifacts
+user_id: null
+version: 1
+workspace: default

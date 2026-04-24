@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rasul/Documents/University(current)/year 3/semester 6(file)/5
+  Machine Learning/sis3/mlruns/188575176021531713/67bd216c942a44369ead0de1d460ef85/artifacts
+end_time: 1777044485125
+entry_point_name: ''
+experiment_id: '188575176021531713'
+lifecycle_stage: active
+run_id: 67bd216c942a44369ead0de1d460ef85
+run_name: nimble-ray-496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777044481115
+status: 3
+tags: []
+user_id: rasul
