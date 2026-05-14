@@ -1,0 +1,11 @@
+artifact_location: file:///home/rasul/Documents/University(current)/year 3/semester
+  6(file)/5 Machine Learning/sis3/mlruns/188575176021531713/models/m-1054e1dae8a345fbb2a5f7bbabdbe096/artifacts
+creation_timestamp: 1777710124677
+experiment_id: '188575176021531713'
+last_updated_timestamp: 1777710128707
+model_id: m-1054e1dae8a345fbb2a5f7bbabdbe096
+model_type: null
+name: model
+source_run_id: 672f1671532c44039dcecb540fef6393
+status: 2
+status_message: null

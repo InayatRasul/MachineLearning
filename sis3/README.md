@@ -1,5 +1,10 @@
 # ML FastAPI + Docker + MLflow + Streamlit Project
 
+mlflow.ui
+
+uvicorn main:app --reload
+
+streamlit run app.py
 ## 📌 Overview
 
 This project demonstrates a complete **end-to-end Machine Learning pipeline**, starting from model training and ending with user interaction through a web interface.
